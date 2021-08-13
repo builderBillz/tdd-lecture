@@ -11,7 +11,7 @@ You can play with the currently set up environment from this codealong endpoint 
   - A function that takes in an array of numbers and returns only the odd ones.
   - A function that takes in an object and returns whether or not it has more than 7 properties.
 
-## Steps To Set Up A Test Environment From Scratch
+## Steps To Set Up A Test Environment From Scratch In The Future
 
 In a project's directory:
 
