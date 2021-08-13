@@ -5,6 +5,7 @@ You can play with the currently set up environment from this codealong endpoint 
 ## Steps To Get Going
 
 - Install `jest` with `npm install`, which will look at the `dependencies` section of the `package.json` file and install what's there--in this case, it's just `jest`. (Recommended: install `jest` globally on your machine with `npm install -g jest`.)
+- Run the tests with `npm test` for a one-time run or `npm run watch` for a run-again-on-save workflow.
 - Start hacking away in `index.test.js` to make some tests for a function! Some suggestions in order of rapidly increasing difficulty:
   - A function that takes in a string and adds an exclamation point.
   - A function that takes in an array of numbers and returns only the odd ones.
